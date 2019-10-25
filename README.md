@@ -1,4 +1,4 @@
-# WebAssign Improved
+# Furman SSO Improved
 This style modernizes the Furman Single Sign-On (SSO) UI and adds a dark theme (activated when system is in dark mode).
 
 Both SSO pages are themed.
